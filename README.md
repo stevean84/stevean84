@@ -2,33 +2,57 @@
 
 ## Welcome! 👋
 
-Hello! I'm Steve An, the Chief Technology Officer with a passion for driving digital transformation and modernizing software architecture through DevOps at scale. Originally from Seoul, Korea, I've built my career around the intersection of technology and commerce on a global scale.
+Hi, I’m **Steve An** — a technology leader passionate about large-scale digital transformation, modern software architecture, and building high-performing engineering organizations. Born and raised in Seoul, Korea, I’ve devoted my career to shaping the future of digital products across global commerce, startups, and enterprise platforms.
+
+---
 
 ## My Journey 🚀
 
-My journey in technology and leadership began in Seoul, Korea, and took me across the globe to where I am today. After completing my B.S. at the State University of New York at Stony Brook, I embarked on a professional path that led me through significant roles in technology and digital commerce.
+After earning my B.S. from the State University of New York at Stony Brook, I began a path that took me through global enterprises and into the startup ecosystem. Today, I lead technology and innovation across multiple ventures, helping companies scale through strong architecture, DevOps culture, and product excellence.
 
-### Career Highlights
+### Current Roles
 
-- **The Trive inc, 더트라이브 (Dec 2021 - Feb 2024)**: As CTO, I led digital transformation initiatives and software architecture modernization efforts, emphasizing scalable DevOps practices. My work was centered in Seoul, Republic of Korea, where I contributed to shaping the future of digital solutions.
+- **CEO & Founder, Commenda Inc.**  
+  At Commenda, I help startups accelerate their growth by providing full-spectrum development — from web and mobile applications to backend systems, architecture consulting, hosting, and operational support. We specialize in scalable solutions using TypeScript, React Native, Next.js, and NestJS, enabling founders to launch, optimize, and expand with confidence.
 
-- **Philip Morris International (Total tenure: 7 yrs 11 mos)**: My journey here spanned several key roles, including Manager of the IQOS Digital Platform and Global Product Owner for Ecommerce. I was instrumental in developing and evolving a global e-commerce platform, enhancing online customer experiences across 18 markets, and leading a team of over 40 professionals in creating end-to-end features for UX, fulfillment, payment operations, subscriptions, and financial processes.
+- **CTO, Workation Inc.**  
+  At Workation, I lead the development of an *Outdoor Total Care Service* powered by mobile, web, and AI technologies, built around the concept of **“Home Away From Home.”**  
+  Our recent initiatives include:
+  - AI-based tent damage detection using image recognition  
+  - A repair & cleaning service platform (Phase 1)  
+  - A secondhand marketplace (Phase 2)  
+  - A commerce ecosystem for outdoor gear (Phase 3)
+
+### Previous Experience
+
+- **CTO, The Trive Inc (Dec 2021 – Feb 2024)**  
+  I oversaw enterprise-wide digital transformation, modernized software architecture, and implemented scalable DevOps practices. My focus was on transitioning legacy systems into resilient, future-ready platforms.
+
+- **Philip Morris International (7 yrs 11 mos)**  
+  I served as Manager of the IQOS Digital Platform and Global Product Owner for E-commerce, leading platform development across **18 global markets**.  
+  My responsibilities included UX, subscriptions, payments, fulfillment, and financial operations — supported by a cross-functional global team of **40+ professionals**.
+
+---
 
 ## Philosophy 🌟
 
-My professional philosophy revolves around the power of technology to transform businesses and markets. I believe in the importance of innovation, agile methodologies, and the strategic roadmap definition to drive business success and deliver outstanding online customer experiences.
+I believe technology should serve as the backbone of business growth. My work focuses on designing scalable architecture, enabling agile product execution, and building teams that deliver meaningful digital experiences. Whether for a global corporation or a fast-moving startup, my approach centers on clarity, innovation, and long-term value creation.
+
+---
 
 ## Beyond Work 🌱
 
-Outside of the professional sphere, I'm passionate about exploring new cultures, technologies, and ideas. I enjoy connecting with like-minded individuals and sharing insights on technology, leadership, and digital transformation.
+I’m continuously exploring new technologies, business models, and cultural insights. I enjoy connecting with founders, engineers, and creators who are passionate about building impactful digital products and challenging conventional thinking.
+
+---
 
 ## Connect With Me 🤝
 
-Let's get in touch! Whether you're interested in discussing technology, commerce, or potential collaborations, I'm open to connecting.
+If you’d like to talk about technology, commerce, AI, startups, or potential collaborations, feel free to reach out.
 
-- Email: [stevean@stevean.com](mailto:stevean@stevean.com)
-- LinkedIn: [Steve Sunggeol An](https://www.linkedin.com/in/steve-sunggeol-an-b854a250/)
+- Email: **stevean@stevean.com**  
+- LinkedIn: **[Steve Sunggeol An](https://www.linkedin.com/in/steve-sunggeol-an-b854a250/)**
 
-Thank you for visiting my page. I look forward to the opportunity to connect and explore how we can drive technology and commerce forward together.
+Thanks for visiting. I look forward to connecting and exploring new opportunities together.
 
-Steve An - Chief Technology Officer
+**Steve An — CTO & Founder**
