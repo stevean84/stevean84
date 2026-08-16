@@ -1,58 +1,87 @@
-# About Steve An
+<div align="center">
 
-## Welcome! 👋
+# Steve Sunggeol An
 
-Hi, I’m **Steve An** — a technology leader passionate about large-scale digital transformation, modern software architecture, and building high-performing engineering organizations. Born and raised in Seoul, Korea, I’ve devoted my career to shaping the future of digital products across global commerce, startups, and enterprise platforms.
+### CEO & Founder at [Extension AI](https://extn.ai)
 
----
+**AI Transformation · Software Architecture · Product Engineering**
 
-## My Journey 🚀
+[LinkedIn](https://www.linkedin.com/in/steve-sunggeol-an-b854a250/) · [Email](mailto:stevean@stevean.com) · [Website](https://extn.ai)
 
-After earning my B.S. from the State University of New York at Stony Brook, I began a path that took me through global enterprises and into the startup ecosystem. Today, I lead technology and innovation across multiple ventures, helping companies scale through strong architecture, DevOps culture, and product excellence.
-
-### Current Roles
-
-- **CEO & Founder, Commenda Inc.**  
-  At Commenda, I help startups accelerate their growth by providing full-spectrum development — from web and mobile applications to backend systems, architecture consulting, hosting, and operational support. We specialize in scalable solutions using TypeScript, React Native, Next.js, and NestJS, enabling founders to launch, optimize, and expand with confidence.
-
-- **CTO, Workation Inc.**  
-  At Workation, I lead the development of an *Outdoor Total Care Service* powered by mobile, web, and AI technologies, built around the concept of **“Home Away From Home.”**  
-  Our recent initiatives include:
-  - AI-based tent damage detection using image recognition  
-  - A repair & cleaning service platform (Phase 1)  
-  - A secondhand marketplace (Phase 2)  
-  - A commerce ecosystem for outdoor gear (Phase 3)
-
-### Previous Experience
-
-- **CTO, The Trive Inc (Dec 2021 – Feb 2024)**  
-  I oversaw enterprise-wide digital transformation, modernized software architecture, and implemented scalable DevOps practices. My focus was on transitioning legacy systems into resilient, future-ready platforms.
-
-- **Philip Morris International (7 yrs 11 mos)**  
-  I served as Manager of the IQOS Digital Platform and Global Product Owner for E-commerce, leading platform development across **18 global markets**.  
-  My responsibilities included UX, subscriptions, payments, fulfillment, and financial operations — supported by a cross-functional global team of **40+ professionals**.
+</div>
 
 ---
 
-## Philosophy 🌟
+## About Me
 
-I believe technology should serve as the backbone of business growth. My work focuses on designing scalable architecture, enabling agile product execution, and building teams that deliver meaningful digital experiences. Whether for a global corporation or a fast-moving startup, my approach centers on clarity, innovation, and long-term value creation.
+I am a technology executive and software architect based in Seoul, South Korea. I have spent more than a decade building and scaling digital products across global enterprises and startups—from international commerce platforms to AI-native business systems.
 
----
+As CEO and Founder of **Extension AI Co., Ltd.**, I lead the development of products that connect artificial intelligence with real business operations. Our work combines business strategy, software architecture, workflow automation, and product engineering under one mission:
 
-## Beyond Work 🌱
-
-I’m continuously exploring new technologies, business models, and cultural insights. I enjoy connecting with founders, engineers, and creators who are passionate about building impactful digital products and challenging conventional thinking.
+> **Extending Intelligence into Reality.**
 
 ---
 
-## Connect With Me 🤝
+## What I Am Building
 
-If you’d like to talk about technology, commerce, AI, startups, or potential collaborations, feel free to reach out.
+At Extension AI, I focus on turning AI from a standalone tool into reliable, production-ready systems that teams can use in their daily work.
 
-- Email: **stevean@stevean.com**  
-- LinkedIn: **[Steve Sunggeol An](https://www.linkedin.com/in/steve-sunggeol-an-b854a250/)**
+- **AI-native business systems** for finance, CRM, HR, projects, documents, and operational workflows
+- **AI agents and workflow automation** that connect decisions with real business actions
+- **Vertical AI products** for security, product intelligence, and domain-specific services
+- **End-to-end digital platforms** spanning web, mobile, backend, cloud infrastructure, and operations
+- **Technology strategy and architecture** for startups and organizations preparing to scale
 
-Thanks for visiting. I look forward to connecting and exploring new opportunities together.
+---
 
-**Steve An — CTO & Founder**
+## Experience
+
+### Extension AI Co., Ltd. — CEO & Founder
+**November 2025 – Present**
+
+Founded Extension AI to build AI-native products and operating systems that integrate intelligence directly into business workflows. I lead company strategy, product direction, software architecture, and engineering execution.
+
+### Workation Inc. — Chief Technology Officer
+**January 2025 – July 2026**
+
+Led product and technology development for an outdoor total-care platform, including mobile, web, AI-assisted inspection, service operations, marketplace, and commerce initiatives.
+
+### The Trive Inc. — Chief Technology Officer
+**December 2021 – February 2024**
+
+Led enterprise digital transformation, software architecture modernization, and DevOps adoption. Focused on replacing legacy structures with scalable platforms and stronger engineering practices.
+
+### Philip Morris International — Digital Platform & Global E-commerce Leadership
+**November 2012 – September 2020**
+
+Led digital platform and e-commerce initiatives across 18 global markets. My work covered customer experience, subscriptions, payments, fulfillment, and financial operations, supported by a cross-functional global team of more than 40 professionals.
+
+---
+
+## Technical Focus
+
+| Area | Technologies and Capabilities |
+|---|---|
+| AI & Automation | AI agents, LLM integration, workflow automation, applied machine learning |
+| Application Development | TypeScript, NestJS, Next.js, React Native, Node.js |
+| Data & Backend | PostgreSQL, MySQL, Prisma, Redis, Socket.IO |
+| Infrastructure | Docker, cloud infrastructure, CI/CD, DevOps |
+| Architecture | Distributed systems, enterprise platforms, e-commerce, system modernization |
+| Leadership | Product strategy, engineering organizations, technical due diligence, execution at scale |
+
+---
+
+## Education
+
+**State University of New York at Stony Brook**  
+B.S. in Computer Science
+
+---
+
+## Connect
+
+I enjoy working with founders, engineers, and organizations that are building meaningful products or navigating complex technology transitions.
+
+- **Email:** [stevean@stevean.com](mailto:stevean@stevean.com)
+- **LinkedIn:** [Steve Sunggeol An](https://www.linkedin.com/in/steve-sunggeol-an-b854a250/)
+- **Website:** [extn.ai](https://extn.ai)
